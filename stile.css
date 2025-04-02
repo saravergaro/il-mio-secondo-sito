@@ -1,0 +1,21 @@
+html {
+  background-color: rgb(218, 171, 242);
+}
+
+.titolo {
+  color: rgb(49, 5, 71);
+  background-color: darkorchid;
+  border: 2px solid rgb(200, 94, 200);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.link:hover {
+  background-color: rgb(121, 121, 245);
+  padding: 5px;
+  color: antiquewhite;
+}
+
+.paragrafo {
+  font-size: 20px;
+}
